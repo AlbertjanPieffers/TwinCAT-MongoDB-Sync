@@ -73,7 +73,10 @@ All actions are logged in the `logs/` folder with timestamps. Log files are name
 
 ## License
 
-This tool is provided under the MIT License. See `LICENSE.md` for more information.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.  
+You may use, modify, and distribute the code for non-commercial purposes only.  
+Full license text: [LICENSE.md](./LICENSE.md)
+
 
 ## Credits
 
