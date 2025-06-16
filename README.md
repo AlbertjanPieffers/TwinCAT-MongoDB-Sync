@@ -75,7 +75,7 @@ All actions are logged in the `logs/` folder with timestamps. Log files are name
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.  
 You may use, modify, and distribute the code for non-commercial purposes only.  
-Full license text: [LICENSE.md](./LICENSE.md)
+Full license text: [LICENSE](./LICENSE)
 
 
 ## Credits
